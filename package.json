@@ -1,0 +1,14 @@
+{
+  "name": "expressjs-world",
+  "version": "1.0.0",
+  "description": "This is my first express js program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "opu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
